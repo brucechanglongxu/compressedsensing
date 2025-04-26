@@ -1,4 +1,4 @@
-# dl-cs-torch-py-1-torch-project
+# dl-cs-torch-py-1-torch-projects
 This repository contains implementations of various unrolled neural networks for 
 accelerated MRI in PyTorch. You can find a very similar package in TensorFlow 
 [here](https://github.com/MRSRL/dl-cs).
